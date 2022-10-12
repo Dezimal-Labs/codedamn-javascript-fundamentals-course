@@ -8,3 +8,5 @@ function sum(a, b) {
 
  
 }
+
+export default sum;
