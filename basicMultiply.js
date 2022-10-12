@@ -9,4 +9,4 @@ function multiply(a, b) {
  
 }
 
-export default sum;
+export default multiply;
