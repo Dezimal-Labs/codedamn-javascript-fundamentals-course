@@ -3,7 +3,7 @@
 //should take in 2 numbers as arguments
 //return their sum
 
-function sum(a, b) {
+function multiply(a, b) {
   //edit code here
 
  
