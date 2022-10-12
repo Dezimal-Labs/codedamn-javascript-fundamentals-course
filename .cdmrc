@@ -1,3 +1,3 @@
-tabs: ['basicSum.js']
+tabs: ['basicMultiply.js']
 terminal-one: static-server -p 1337 --no-cache
 live-reload-browser: false
